@@ -1,0 +1,18 @@
+# Python cache
+__pycache__
+
+# Virtual env
+venv
+.idea
+
+# Tokens and models
+.cache
+vosk_models
+gmail_credentials.json
+token.json
+
+# env vars
+dev_vars.env
+
+# vs code settings 
+.vscode/

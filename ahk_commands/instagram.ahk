@@ -1,0 +1,1 @@
+﻿Run, chrome.exe "https://www.instagram.com/" " --new-window "

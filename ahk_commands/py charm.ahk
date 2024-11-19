@@ -1,0 +1,1 @@
+﻿Run ""C:\Program Files\JetBrains\PyCharm 2022.3.2\bin\pycharm64.exe""

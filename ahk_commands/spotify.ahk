@@ -1,0 +1,1 @@
+﻿Run "C:\Users\Lenovo\AppData\Roaming\Spotify\Spotify.exe"

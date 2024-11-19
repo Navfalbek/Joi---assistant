@@ -1,0 +1,1 @@
+﻿Run, chrome.exe "https://leetcode.com/" " --new-window "
