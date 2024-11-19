@@ -10,6 +10,7 @@ venv
 vosk_models
 gmail_credentials.json
 token.json
+tokens.txt
 
 # env vars
 dev_vars.env
