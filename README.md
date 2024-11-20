@@ -14,7 +14,7 @@ A project inspired by the movie "Blade Runner 2049"
 ## Installation
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/Navfalbek/Joi-assistant.git
 ```
 
 2. Install dependencies:
